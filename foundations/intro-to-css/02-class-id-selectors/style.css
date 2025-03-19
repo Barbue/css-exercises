@@ -1,0 +1,21 @@
+.dog {
+  background-color: rgb(205, 152, 161);
+  font-family: "DejaVu Sans", Verdana, sans-serif;
+}
+
+#cat {
+    color: blue;
+    font-size: 36px;
+}
+
+.dog.wolf{
+
+    font-size: 24px;
+}
+
+#bobcat {
+    background-color: rgb(125, 233, 125);
+    font-size: 24px;
+    font: bold;
+
+}

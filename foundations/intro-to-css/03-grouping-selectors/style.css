@@ -1,0 +1,17 @@
+.scarlett {
+    background-color: black;
+    color: white;
+
+}
+
+.laetitia {
+    background-color: yellow;
+}
+
+.scarlett, .laetitia {
+    font-size: 28px;
+    font-style: Helvetica, "Times New Roman", sans-serif;
+
+
+
+}
